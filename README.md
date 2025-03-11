@@ -43,6 +43,6 @@ agora execute novamente o comando abaixo
         python3 api.py --MLB MLB2037467576
 
 
-## 5. Resilucao de Problemas
+## 5. Resolução de Problemas
 
-Se por um acaso para de retornar o conteudo json, apague o valor da variavel **REFRESH_TOKEN** e refaca o processo **4.**
+Se por um acaso parar de retornar o conteúdo json, apague o valor da variável **REFRESH_TOKEN** e refaça o processo **4.**
