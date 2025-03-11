@@ -98,7 +98,7 @@ def get_item_data(access_token, mlb):
 
 # Execução principal
 def main():
-    print(REFRESH_TOKEN)
+    
     if REFRESH_TOKEN and REFRESH_TOKEN != "":
         access_token = refresh_access_token(REFRESH_TOKEN)
     else:
