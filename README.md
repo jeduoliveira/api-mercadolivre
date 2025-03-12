@@ -4,7 +4,8 @@ este script tem como função acessa o MLB de um item via python
 
 ## Premissa
 
-Ter git e python instalados
+git instalado (https://git-scm.com/downloads/win)
+python instalado (https://www.python.org/downloads/windows/)
 
 ## 1. Clonar  repositório
 
